@@ -1,3 +1,10 @@
+HOW TO START?
+
+~~~
+npm install
+npm start
+~~~
+
 # This is the React Investment Calculator
 Demon Video:
 
